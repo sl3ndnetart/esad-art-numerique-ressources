@@ -15,8 +15,24 @@
 - LXSH - https://www.instagram.com/lxshproject/
 - THEDOTISBLACK - https://thedotisblack.com
 - Patrik Huebner - https://www.patrik-huebner.com
+- Alessio De Vecchi - https://alessiodevecchi.com
+- Alessio De Vecchi pour Anyma - https://www.youtube.com/watch?v=OkF8URL8ibk
+- Jack Mc Veigh - https://www.artpoint.fr/artists/jack-mcveigh
+- Matthieu Herrant - https://www.ruesaintabel.paris/?fbclid=PAZXh0bgNhZW0CMTEAAaaCo8UAM4tYW4fPY27X3ms_dPOvOjhL4EzHB99JBB9CDFcKTDHheAAIBt0_aem_DFYQY3b0E_oryEuQwZ4z7w
+- Team Psykskallar - https://www.youtube.com/user/TeamPsykskallar
+
+
+
+## Tutos Youtube Unity
+
+- Mettre un shader outline (équivalent Grease Pencil) sur Unity : https://www.youtube.com/watch?v=d89qqVGUHtA
+- Faire apparaître un trace derrière le passage du joueur : https://www.youtube.com/watch?v=9PqPZDqSDWA
+- Créer un inventaire sur Unity - https://www.youtube.com/watch?v=-xB4xEmGtCY
+
+
 
 ## Livres
+
 - "Pathways" - Julien Gachadoat https://vetroeditions.com/pages/ptw?srsltid=AfmBOooXW4eyDFCoTol4E9sIWlV-TUcfRMPv9thSpX_9nvKg66LnWiwr
 - "Tracing the Line" - Generative Hut https://fisheyeimmersive.com/article/book-club-tracing-the-line-de-generative-hut/
 - "Generative Art: A Practical Guide Using Processing" - Matt Pearson https://www.mat.ucsb.edu/~g.legrady/academic/courses/20f594/txt/generativeArt2.pdf
@@ -31,7 +47,6 @@
   Permet de faire marcher des models sur un Raspberry pi
 
   How to use tensorflow Light on window -> https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/deploy_guides/Windows_TFLite_Guide.md
-
 
 
 ### CNC
